@@ -1,6 +1,0 @@
-<?php
-// KING RESULT
-$sender = 'From: KING STORE <idselleridseller025@gmail.com>';
-
-$emailku = 'idselleridseller025@gmail.com'; // 
-?>
